@@ -1,5 +1,8 @@
 ## Welcome to yongqgui's homepages
 
+### Biography
+Yongqiang Gui received the B.S. degree in 2016 from the HeFei University of Technology (HFUT), Hefei, China, where he is currently working toward the Ph.D. degree in electronics and communication Engineering in the Department of Electronic Engineering and Information Science, USTC. His research interest include wireless multimedia transmission.
+
 ### Publications
 
 1. Hancheng Lu, Yongqiang Gui, Xiaoda Jiang, Feng Wu, Chang Wen Chen. Compressed Robust Transmission for Remote Sensing Services in Space Information Networks. Accepted, IEEE Wireless Communications Magazine, 2019.
