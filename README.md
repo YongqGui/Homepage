@@ -12,7 +12,7 @@ Email: yongqgui@mail.ustc.edu.cn
 
 Huangshan Road, Hefei
 
-You can use the [editor on GitHub](https://github.com/YongqGui/yongqgui-homepage/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+2. [Yongqiang Gui, Zexue Li, Hancheng Lu, Haozhe Xiang, Xiaoda Jiang. Spatial Scalability Enabled Soft Video Broadcast for Users with Resolution Heterogeneity. IEEE Globecom 2017](https://ieeexplore.ieee.org/abstract/document/8254130).
 
 
 ### Markdown
