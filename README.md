@@ -15,6 +15,8 @@ Yongqiang Gui received the B.S. degree in 2016 from the HeFei University of Tech
 
 5. **Yongqiang Gui**, Zexue Li, Hancheng Lu, Haozhe Xiang, Xiaoda Jiang. ["Spatial Scalability Enabled Soft Video Broadcast for Users with Resolution Heterogeneity."](https://ieeexplore.ieee.org/abstract/document/8254130) *IEEE Globecom 2017*.
 
+6. Mengjie Liu, **Yongqiang Gui**, Jian Li, Hancheng Lu, ["Large-Scale Small Satellite Network Simulator: Design and Evaluation."] *IEEE HotICN, 2020, Accepted.*
+
 
 ### Contact
 
