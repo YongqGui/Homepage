@@ -9,13 +9,15 @@ Yongqiang Gui received the B.S. degree in 2016 from the HeFei University of Tech
 
 2. **Yongqiang Gui**, Hancheng Lu, Xiaoda Jiang, Feng Wu, Chang Wen Chen. ["Compressed Pseudo-analog Transmission System for Remote Sensing Images over Bandwidth-Constrained Wireless Channels."](https://ieeexplore.ieee.org/document/8795548) *IEEE Trans. Circuits Syst. Video Technol., 2019*.
 
-3. Hancheng Lu, **Yongqiang Gui**, Xiaoda Jiang, Feng Wu, Chang Wen Chen. ["Compressed Robust Transmission for Remote Sensing Services in Space Information Networks."](https://ieeexplore.ieee.org/abstract/document/8700140/) *IEEE Wireless Communications Magazine, 2019*.
+3. **Yongqiang Gui**, Hancheng Lu, Feng Wu, Chang Wen Chen. "LensCast: Robust Wireless Video Transmission over mmWave MIMO with Lens Antenna Array" *IEEE Trans. Multimedia., 2020, Accepted*.
 
-4. Hancheng Lu, Ming Zhang, **Yongqiang Gui**, Jinxue Liu. ["QoE-Driven Multi-User Video Transmission over SM-NOMA Integrated Systems."](https://ieeexplore.ieee.org/abstract/document/8765339) *IEEE J. Sel. Areas Commun., 2019*.
+4. Hancheng Lu, **Yongqiang Gui**, Xiaoda Jiang, Feng Wu, Chang Wen Chen. ["Compressed Robust Transmission for Remote Sensing Services in Space Information Networks."](https://ieeexplore.ieee.org/abstract/document/8700140/) *IEEE Wireless Communications Magazine, 2019*.
 
-5. **Yongqiang Gui**, Zexue Li, Hancheng Lu, Haozhe Xiang, Xiaoda Jiang. ["Spatial Scalability Enabled Soft Video Broadcast for Users with Resolution Heterogeneity."](https://ieeexplore.ieee.org/abstract/document/8254130) *IEEE Globecom 2017*.
+5. Hancheng Lu, Ming Zhang, **Yongqiang Gui**, Jinxue Liu. ["QoE-Driven Multi-User Video Transmission over SM-NOMA Integrated Systems."](https://ieeexplore.ieee.org/abstract/document/8765339) *IEEE J. Sel. Areas Commun., 2019*.
 
-6. Mengjie Liu, **Yongqiang Gui**, Jian Li, Hancheng Lu, "Large-Scale Small Satellite Network Simulator: Design and Evaluation." *IEEE HotICN, 2020, Accepted*.
+6. **Yongqiang Gui**, Zexue Li, Hancheng Lu, Haozhe Xiang, Xiaoda Jiang. ["Spatial Scalability Enabled Soft Video Broadcast for Users with Resolution Heterogeneity."](https://ieeexplore.ieee.org/abstract/document/8254130) *IEEE Globecom 2017*.
+
+7. Mengjie Liu, **Yongqiang Gui**, Jian Li, Hancheng Lu, "Large-Scale Small Satellite Network Simulator: Design and Evaluation." *IEEE HotICN, 2020, Accepted*.
 
 
 ### Contact
